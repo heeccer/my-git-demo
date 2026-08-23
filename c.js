@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("c.js的功能");
 
 function add(a, b) {
     return a + b;
