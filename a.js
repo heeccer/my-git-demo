@@ -5,13 +5,11 @@ function a(...args){
 }
 
 // 递归求和函数
-function sum(n){
+const sum = (n) => {
     if(n === 1){
         return 1;
     }
     return n + sum(n - 1);
 }
-
-console.log(sum(10));
 
 console.log(sum(100));
