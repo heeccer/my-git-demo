@@ -1,7 +1,7 @@
 console.log('b文件实现了斐波拉契数列');
 
 // 斐波拉契数列
-function fibonacci(n){
+export function fibonacci(n){
     if(n === 0){
         return 0;
     }
