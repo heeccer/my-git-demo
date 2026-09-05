@@ -15,13 +15,6 @@ function subtract(a, b) {
 console.log(subtract(1, 2));
 
 
-// 除法
-function divide(a, b) {
-    return a / b;
-}
-
-console.log(divide(1, 2));
-
 // 乘法
 function multiply(a, b) {
     return a * b;
