@@ -13,4 +13,5 @@ function sum(n){
 }
 
 console.log(sum(20));
+console.log(sum(30));
 console.log(sum(100));
